@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "ExtBench"
+		},
+		{
+			"path": "Demo1"
+		},
+		{
+			"path": "/Users/donjayamanne/Desktop/Development/vscode/vscode"
+		},
+		{
+			"path": "/Users/donjayamanne/Desktop/Development/vscode/vscode-extension-samples"
+		},
+		{
+			"path": "/Users/donjayamanne/Desktop/Development/PythonStuff/py-sorting"
+		},
+		{
+			"path": "/Users/donjayamanne/Desktop/Development/PythonStuff/Python-Prototyping"
+		},
+		{
+			"path": "/Users/donjayamanne/Desktop/Development/PythonStuff/util"
+		}
+	],
+	"settings": {}
+}
