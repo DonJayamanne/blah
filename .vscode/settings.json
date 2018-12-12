@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Users/donjayamanne/.local/share/virtualenvs/Blah-9RGIa5Ay/bin/python",
-    "python.jediEnabled": true,
-    "python.linting.pylintEnabled": false
+    "python.pythonPath": "/Users/donjayamanne/.pyenv/versions/pypy3.5-6.0.0/bin/python",
+    "python.jediEnabled": false,
+    "python.linting.pylintEnabled": true
 }
